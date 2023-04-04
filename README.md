@@ -7,11 +7,15 @@ Buenas, soy Damián! Tengo 24 años, arranque en Ing. Industrial y al terminar t
 Actualmente estoy trabajando como SRE en [Netrix](https://netrixglobal.com/). Me cuesta un poco explicar lo que hago, asi que veamos que dice ChatGPT:
 
 ```
-El puesto de trabajo de Site Reliability Engineer (SRE) se centra en garantizar la fiabilidad, la escalabilidad y el rendimiento de los sistemas informáticos de una empresa. El SRE trabaja para optimizar la infraestructura tecnológica, automatizar procesos y mejorar la eficiencia operativa, todo con el objetivo final de asegurar una experiencia de usuario de alta calidad.
+El puesto de trabajo de Site Reliability Engineer (SRE) se centra en garantizar la fiabilidad, la escalabilidad 
+y el rendimiento de los sistemas informáticos de una empresa. El SRE trabaja para optimizar la infraestructura 
+tecnológica, automatizar procesos y mejorar la eficiencia operativa, todo con el objetivo final de asegurar una 
+experiencia de usuario de alta calidad.
 
-El SRE colabora con el equipo de desarrollo de software para asegurarse de que los sistemas sean resistentes a fallos y puedan recuperarse rápidamente si ocurren problemas. También pueden estar involucrados en la planificación y diseño de la arquitectura de los sistemas, asegurándose de que se cumplan los requisitos de rendimiento y escalabilidad.
+El SRE colabora con el equipo de desarrollo de software para asegurarse de que los sistemas sean resistentes a fallos 
+y puedan recuperarse rápidamente si ocurren problemas. También pueden estar involucrados en la planificación y diseño 
+de la arquitectura de los sistemas, asegurándose de que se cumplan los requisitos de rendimiento y escalabilidad.
 ```
-
 
 ### Datitos
 

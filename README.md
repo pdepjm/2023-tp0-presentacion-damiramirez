@@ -2,6 +2,8 @@
 
 Buenas, soy Damián! Tengo 24 años, arranque en Ing. Industrial y al terminar tercero, decidi cambiarme a Sistemas.
 
+![yop](/yop.jpeg "holi").
+
 > Legajo: 164.555-9
 
 Actualmente estoy trabajando como SRE en [Netrix](https://netrixglobal.com/). Me cuesta un poco explicar lo que hago, asi que veamos que dice ChatGPT:
